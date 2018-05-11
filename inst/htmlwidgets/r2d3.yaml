@@ -4,3 +4,8 @@ dependencies:
     src: htmlwidgets/lib
     script:
       - r2d3-render.js
+  - name: parse-css
+    version: 0.1.0
+    src: htmlwidgets/lib
+    script:
+      - parse-css.js
